@@ -5,3 +5,5 @@
  i used html to make the base of the project and the interface and put the photos and examples
  i used css to make a design for every thing in the website and make the website pretty and give your attention
  i used java script to make any interactions between users and the website and any calculations in the website 
+this is the interface in the begining
+<img width="1766" height="695" alt="image" src="https://github.com/user-attachments/assets/17f49f72-65e0-45ba-bcc7-2680bb3749b7" />
