@@ -13,3 +13,14 @@ in the second stage, there are some photos that illustrate the featured items an
 
 furthermore, there are some products with its prices in EGP (the main coin in Egypt) and this product is a real product were making in Egypt.
 <img width="1466" height="505" alt="image" src="https://github.com/user-attachments/assets/c331b7a3-6a5e-4e24-bf05-082133f42fb3" />
+
+in addition, i added a googale translation on the website, so the website become know with English language and my mother language that is Arabic for my citezens to use this website. 
+<img width="1905" height="890" alt="image" src="https://github.com/user-attachments/assets/7b78c712-ea41-4fed-86d3-d81146fd80a0" />
+<img width="1545" height="905" alt="image" src="https://github.com/user-attachments/assets/e8e10df0-42b9-4e79-b804-e9a0ac29c083" />
+
+furthermore, i made some modifications in the footer to become more confortable for the eyes 
+<img width="1246" height="339" alt="image" src="https://github.com/user-attachments/assets/b0937b2a-58b3-457d-9c46-67f8b4c1167f" />
+
+
+and added some offers like the money flower with the whole bouqt, for the rich.
+<img width="1429" height="682" alt="image" src="https://github.com/user-attachments/assets/57da4bd2-be4d-4d6d-b176-0da04d2483ed" />
